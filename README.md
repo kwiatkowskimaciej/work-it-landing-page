@@ -52,4 +52,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@kwiatkowskimaciej](hhttps://www.frontendmentor.io/profile/kwiatkowskimaciej)
+- Frontend Mentor - [@kwiatkowskimaciej](https://www.frontendmentor.io/profile/kwiatkowskimaciej)
